@@ -1,0 +1,66 @@
+{
+  "jobs": [
+    {
+      "id": "199A9ED66BFE4CF593DBDF5402F17021", 
+      "companyName": "Kariyer.net",
+      "positionName": "Front End Developer",
+      "releaseDate": "13/11/2020",
+      "countryName": "Türkiye",
+      "cityName": "İstanbul",
+      "townName": "Ümraniye",
+      "address": "Saray Mahallesi Site Yolu Sokak No:7 34768 Ümraniye/İstanbul Türkiye",
+      "description": "Firma talepleri ...",
+      "contactPhone": "+90 879 9797979"
+      
+    },
+    {
+      "id": "199A9ED66BFE4CF593DBDF5402F17022", 
+      "companyName": "Kariyer.net",
+      "positionName": "Motion Graphic Designer",
+      "releaseDate": "13/11/2020",
+      "countryName": "Türkiye",
+      "cityName": "İstanbul",
+      "townName": "Maslak",
+      "address": "Saray Mahallesi Site Yolu Sokak No:7 34768 Maslak/İstanbul Türkiye",
+      "description": "Firma talepleri ...",
+      "contactPhone": "+90 879 9797979"
+      
+    },
+    {
+      "id": "199A9ED66BFE4CF593DBDF5402F17023", 
+      "companyName": "Kariyer.net",
+      "positionName": "Senior Front End Developer",
+      "releaseDate": "13/11/2020",
+      "countryName": "Türkiye",
+      "cityName": "İstanbul",
+      "townName": "Davutpaşa",
+      "address": "Saray Mahallesi Site Yolu Sokak No:7 34768 Davutpaşa/İstanbul Türkiye",
+      "description": "Firma talepleri ...",
+      "contactPhone": "+90 879 9797979"
+    },
+    {
+      "id": "199A9ED66BFE4CF593DBDF5402F17024", 
+      "companyName": "Kariyer.net",
+      "positionName": "Front End Team Lead",
+      "releaseDate": "13/11/2020",
+      "countryName": "Türkiye",
+      "cityName": "İzmir",
+      "townName": "Alsancak",
+      "address": "Saray Mahallesi Site Yolu Sokak No:7 34768 İzmir/İstanbul Türkiye",
+      "description": "Firma talepleri ...",
+      "contactPhone": "+90 879 9797979"
+    },
+    {
+      "id": "199A9ED66BFE4CF593DBDF5402F17025", 
+      "companyName": "Kariyer.net",
+      "positionName": "UX Designer",
+      "releaseDate": "13/11/2020",
+      "countryName": "Türkiye",
+      "cityName": "Ankara",
+      "townName": "Mamak",
+      "address": "Saray Mahallesi Site Yolu Sokak No:7 34768 Ankara/İstanbul Türkiye",
+      "description": "Firma talepleri ...",
+      "contactPhone": "+90 879 9797979"
+    }
+  ]
+}
